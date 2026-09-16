@@ -12,7 +12,7 @@ All theoretical concepts, system architectures, and ML patterns belong to the or
 * **Author:** [Chip Huyen](https://chiphuyen.com/)
 * **Official Author's GitHub:** [github.com/chiphuyen](https://github.com/chiphuyen) *(Check out the author's official materials for the definitive guide).*
 
-## :robot_face: AI Generation Details (Claude Code)
+AI Generation Details (Claude Code)
 
 The code in this repository was generated and structured using **Claude Code** (Anthropic).
 
